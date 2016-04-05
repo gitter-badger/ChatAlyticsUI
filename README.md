@@ -1,5 +1,7 @@
 # ChatAlyticsUI [![Build Status](https://travis-ci.org/psastras/ChatAlyticsUI.svg?branch=master)](https://travis-ci.org/psastras/ChatAlyticsUI) [![Coverage Status](https://coveralls.io/repos/github/psastras/ChatAlyticsUI/badge.svg?branch=master)](https://coveralls.io/github/psastras/ChatAlyticsUI?branch=master)
 
+[![Join the chat at https://gitter.im/psastras/ChatAlyticsUI](https://badges.gitter.im/psastras/ChatAlyticsUI.svg)](https://gitter.im/psastras/ChatAlyticsUI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > UI for realtime platform for processing Slack and HipChat messages.  
 
 Note that this UI is dependent on (and built on top of) the [ChatAlytics](https://github.com/gneokleo/ChatAlytics) platform.
